@@ -3,7 +3,7 @@
 # 定义 UUID 及伪装路径、哪吒面板参数，请自行修改. (注意:伪装路径以 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
 UUID='8988d349-51e3-4ed3-b389-1571bb786061'
 VMESS_WSPATH='/vmess'
-VLESS_WSPATH='/speedtest'
+VLESS_WSPATH='/vless'
 TROJAN_WSPATH='/trojan'
 SS_WSPATH='/shadowsocks'
 NEZHA_SERVER=''
